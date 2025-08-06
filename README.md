@@ -1,1 +1,1 @@
-# ePlant
+# coding-project-template
